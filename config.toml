@@ -2,7 +2,7 @@ title = "Notre-Dame de Paris"
 baseURL = "https://neocris.github.io/hugocms/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
-# themesDir = "../.."
+# themesDir = ""
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
